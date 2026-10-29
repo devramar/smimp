@@ -2,7 +2,7 @@
 
 **smimp** is a Java import picker, auto-importer, stale-import repairer, and opinionated import formatter for **Sublime Text 4**.
 
-It is intentionally **build-system agnostic**. The core does not know how JRunner, Gradle, Maven, or another build system compiles a project. Instead, independent discovery providers contribute classes to a shared index. Project source discovery and JDK discovery work out of the box; JAR discovery is optional and configured with globs.
+It is intentionally **build-system agnostic**. The core does not know how [JRunner](https://github.com/devramar/jrunner), Gradle, Maven, or another build system compiles a project. Instead, independent discovery providers contribute classes to a shared index. Project source discovery and JDK discovery work out of the box; JAR discovery is optional and configured with globs.
 
 Current repository version: **0.5.0**.
 
