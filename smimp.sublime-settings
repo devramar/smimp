@@ -1,0 +1,20 @@
+{
+  "providers": {
+    "sources": {
+      "enabled": true,
+      "exclude_dirs": [".git", ".gradle", ".idea", "build", "target", "out", "node_modules", ".smimp"]
+    },
+    "jdk": { "enabled": true },
+    "jar_glob": {
+      "enabled": false,
+      "patterns": ["**/env/**/*.jar"]
+    }
+  },
+  "preferred_imports": {},
+  "auto_import": { "repair_unindexed_explicit_imports": true, "remove_unused_explicit_imports": true },
+  "import_sort": { "on_insert": true, "project_package_prefixes": [] },
+  "java_executable": "java",
+  "javac_executable": "javac",
+  "parser": "javac",
+  "max_batch_files": 5000
+}

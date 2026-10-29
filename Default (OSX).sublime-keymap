@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+i"], "command": "smimp_import_at_cursor", "context": [{ "key": "selector", "operator": "equal", "operand": "source.java" }] },
+  { "keys": ["ctrl+shift+i"], "command": "smimp_auto_import_file", "context": [{ "key": "selector", "operator": "equal", "operand": "source.java" }] }
+]

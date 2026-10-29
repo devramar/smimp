@@ -1,0 +1,16 @@
+[
+  { "caption": "smimp: Class Picker (internal)", "command": "smimp_import_class" },
+  { "caption": "smimp: Import Class at Cursor", "command": "smimp_import_at_cursor" },
+  { "caption": "smimp: Sort Imports in File", "command": "smimp_sort_imports" },
+  { "caption": "smimp: Sort Imports in Current Project (Choose Scope)", "command": "smimp_sort_imports_in_project" },
+  { "caption": "smimp: Auto Import File", "command": "smimp_auto_import_file" },
+  { "caption": "smimp: Import Classes in Project", "command": "smimp_import_classes_in_project" },
+  { "caption": "smimp: Import Classes in Package", "command": "smimp_import_classes_in_package" },
+  { "caption": "smimp: Add Preferred Import", "command": "smimp_add_preferred_import" },
+  { "caption": "smimp: Open Project Settings", "command": "smimp_open_project_settings" },
+  { "caption": "smimp: Open Global Settings", "command": "smimp_open_global_settings" },
+  { "caption": "smimp: Rebuild Class Index", "command": "smimp_rebuild_class_index" },
+  { "caption": "smimp: Show Index Status", "command": "smimp_show_index_status" },
+  { "caption": "smimp: Resume Import Review", "command": "smimp_resume_import_review" },
+  { "caption": "smimp: Revert Last Batch", "command": "smimp_revert_last_batch" }
+]

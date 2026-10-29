@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Java helper build products (the plugin compiles these into Sublime's cache at runtime)
+*.class
+
+# IDE / editor metadata
+.idea/
+.vscode/
+*.sublime-workspace
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Local smimp project configuration and scratch output
+.smimp/
+*.log
+
+# Release artifacts
+/dist/
+/build/
+*.zip
